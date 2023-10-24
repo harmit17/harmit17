@@ -3,7 +3,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=harmit17&theme=radical" alt="Harmit's GitHub Stats">
     </a>
     <a href="https://github.com/harmit17"">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harmit17&theme=darcula&hide_border=true" alt="Harmit's GitHub Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harmit17&theme=radical&hide_border=true" alt="Harmit's GitHub Stats">
     </a>
     <a href="https://github.com/Harmit17">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmit17&theme=radical&layout=compact" alt="Top Languages">
