@@ -20,6 +20,16 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+### About Me
+
+- 🌱 An active learner who enjoys exploring new technologies and working on projects.
+- ☕ Passionate about Java, I solve LeetCode problems using Java and have experience with Java frameworks such as Spring Boot, Spring Data JPA, and Hibernate.
+- 💻 Dived into the MERN stack last year, finding it fascinating to develop full-stack projects.
+- 🧠 Understanding of Object-Oriented Programming, Agile methodology, Data Structures, and Algorithms (still learning more!).
+- 🚀 Enthusiastic about DevOps (I Love discussing and learning about DevOps, my favorite topic for the past two years. I have practical experience with tools like Jenkins, Azure DevOps, and Docker.)
+- 🎮 Enjoy playing FPS games like Valorant and CS2 (now Counter-Strike 2).
+- 📺 A sports enthusiast who follows football, Formula 1, and basketball.
+- 📚 Also a reader and writer.
 
 <div align="center">
     <a href="https://github.com/harmit17"">
