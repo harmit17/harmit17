@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <div align="center">
     <a href="https://github.com/harmit17"">
         <img src="https://github-readme-stats.vercel.app/api?username=harmit17&theme=radical" alt="Harmit's GitHub Stats">
