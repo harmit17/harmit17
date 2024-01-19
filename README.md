@@ -27,7 +27,6 @@
 - 💻 Dived into the MERN stack last year, finding it fascinating to develop full-stack projects.
 - 🧠 Understanding of Object-Oriented Programming, Agile methodology, Data Structures, and Algorithms (still learning more!).
 - 🚀 Enthusiastic about DevOps (I Love discussing and learning about DevOps, my favorite topic for the past two years. I have practical experience with tools like Jenkins, Azure DevOps, and Docker.)
-- 🎮 Enjoy playing FPS games like Valorant and CS2 (now Counter-Strike 2).
 - 📺 A sports enthusiast who follows football, Formula 1, and basketball.
 - 📚 Also a reader and writer.
 
